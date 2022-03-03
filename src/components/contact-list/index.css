@@ -1,0 +1,11 @@
+ul {
+  list-style: none;
+}
+.list-menu {
+  padding: 15px;
+  height: 70vh;
+  overflow-y: scroll;
+}
+.cursor-pointer{
+  cursor: pointer;
+}

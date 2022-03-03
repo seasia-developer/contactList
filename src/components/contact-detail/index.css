@@ -1,0 +1,11 @@
+.pro-img {
+  height: 150px;
+  width: 150px;
+  background: #ccc;
+  margin-right: 30px;
+  flex-shrink: 0;
+}
+
+img.dp-img {
+  width: 100%;
+}
